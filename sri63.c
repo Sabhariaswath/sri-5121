@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(void) 
+int main() 
 {
 char str[50];
 int i,count=1;
