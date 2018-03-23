@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+int main(void)
 {
 int rev=0,t;
 char a;
